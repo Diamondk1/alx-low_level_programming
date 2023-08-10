@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints a sentence followed by a new line
- * Return : always end with 0
+ * main - this is the main function
+ *
+ * Return: always end with 0
  */
 int main(void)
 {
